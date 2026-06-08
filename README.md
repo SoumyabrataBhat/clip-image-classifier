@@ -38,7 +38,7 @@ Before running the application, ensure the following dependencies are installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/SamTheDJ/clip-image-classifier.git
+git clone https://github.com/SoumyabrataBhat/clip-image-classifier
 cd image-classifier
 ```
 
